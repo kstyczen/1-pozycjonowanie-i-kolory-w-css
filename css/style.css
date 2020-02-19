@@ -1,0 +1,76 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+
+}
+.square {
+    width: 196px;
+    height: 196px;
+    border: 2px solid white;
+
+
+}
+.circle {
+    width: 98px;
+    height: 98px;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin: 49px 49px;
+}
+#square1 {
+    background-color: red;
+}
+#circle1 {
+    background-color: pink;
+}
+#square2 {
+    background-color: blue;
+}
+#circle2 {
+    background-color: gray;
+}
+#square3 {
+    background-color: green;
+}
+#circle3 {
+    background-color: violet;
+}
+#square4 {
+    background-color: yellow;
+}
+#circle4 {
+    background-color:green;
+}
+#square5 {
+    background-color: black;
+}
+#circle5 {
+    background-color: red;
+}
+#square6 {
+    background-color: orange;
+}
+#circle6 {
+    background-color: blue;
+}
+#square7 {
+    background-color: violet;
+}
+#circle7 {
+    background-color: orange;
+}
+#square8 {
+    background-color: gray;
+}
+#circle8 {
+    background-color: yellow;
+}
+#square9 {
+    background-color: pink;
+}
+#circle9 {
+    background-color: black;
+}
